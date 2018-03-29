@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="msg">注意：本软件中的方位角指的是对方位置相对于自身北偏东的角度数值，俯仰角指的是本机相对与地平面的角度值。</string>
+
+
+</resources>
