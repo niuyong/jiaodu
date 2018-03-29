@@ -1,1 +1,3 @@
-*.xml linguist-language=Android
+*.js linguist-language=Android
+*.css linguist-language=Android
+*.html linguist-language=Android
