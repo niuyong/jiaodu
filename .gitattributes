@@ -1,5 +1,5 @@
-*.js linguist-language=java
-*.css linguist-language=java
-*.html linguist-language=java
-*.xml linguist-language=java
-*.htm linguist-language=java
+*.js linguist-language=android
+*.css linguist-language=android
+*.html linguist-language=android
+*.xml linguist-language=android
+*.htm linguist-language=android
